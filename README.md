@@ -1,6 +1,8 @@
-# Current Submission Transparency Package
+# Corneal Aberration Atlas — Transparency Package
 
-This folder was assembled to match the current manuscript exactly and to separate the final, shareable materials from older exploratory work.
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19582389.svg)](https://doi.org/10.5281/zenodo.19582389)
+
+Peer-review transparency package for the manuscript submitted to BMC Ophthalmology.
 
 ## Source manuscript
 - File: `A label-free machine learning atlas of corneal aberration cluster.docx`
