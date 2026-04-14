@@ -1,0 +1,16 @@
+phenotype,BAD_D_category,n,pct_within_phenotype,pct_within_category
+P0,Normal (<1.6),8,1.0,0.6
+P0,Suspect (1.6-2.6),18,2.2,2.3
+P0,Abnormal (>2.6),779,96.8,55.7
+P1,Normal (<1.6),388,51.5,28.8
+P1,Suspect (1.6-2.6),205,27.2,26.0
+P1,Abnormal (>2.6),160,21.2,11.4
+P2,Normal (<1.6),836,59.1,62.1
+P2,Suspect (1.6-2.6),461,32.6,58.5
+P2,Abnormal (>2.6),118,8.3,8.4
+P3,Normal (<1.6),114,20.4,8.5
+P3,Suspect (1.6-2.6),104,18.6,13.2
+P3,Abnormal (>2.6),342,61.1,24.4
+Total,Normal (<1.6),1346,38.1,100.0
+Total,Suspect (1.6-2.6),788,22.3,100.0
+Total,Abnormal (>2.6),1399,39.6,100.0

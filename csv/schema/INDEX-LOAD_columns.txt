@@ -1,0 +1,97 @@
+Last Name:
+First Name:
+Pat-ID:
+D.o.Birth:
+Exam Date:
+Exam Time:
+Exam Eye:
+Exam Type:
+Exam Comment:
+Rf (mm):
+Rs (mm):
+K1 (D):
+K2 (D):
+Axis (flat):
+Astig:
+KKS
+ISV:
+IVA:
+KI:
+CKI:
+IHA:
+IHD:
+AA:
+RSagMin:
+PachyMinX:
+PachyMinY:
+D0mm Pachy:
+D2mm Pachy:
+D4mm Pachy:
+D6mm Pachy:
+D8mm Pachy:
+D10mm Pachy:
+D12mm Pachy:
+D0mm StdDev
+D2mm StdDev
+D4mm StdDev
+D6mm StdDev
+D8mm StdDev
+D10mm StdDev
+D12mm StdDev
+RPI Min
+RPI Mid
+RPI Max
+RPI Min Axis
+RPI Max Axis
+C.Vol. D 3mm
+C.Vol. D 5mm
+C.Vol. D 7mm
+Unnamed: 48
+F-AA
+B-AA
+F-QF
+B-QF
+LostCut
+LostCutSer
+F-3DFit Devi
+B-3DFit Devi
+EyeMove
+AlignXY
+AlignZ
+Status
+Error
+Axis (flt/stp):
+Axis Meridian:
+K Max (Front):
+K Max X (Front):
+K Max Y (Front):
+Pat. Comment 1:
+Pat. Comment 2:
+Pat. Comment 3:
+Pat. Comment 4:
+Pat. Comment 5:
+CF Sag. Zonal Mean 4mm:
+KMax Zonal Mean 3mm:
+KMax Zonal Mean 4mm:
+KMax Zonal Mean 5mm:
+IS-Value:
+Iris Convexity Mid (°):
+Iris Convexity Max (°):
+Iris Convexity Axis Max (°):
+Iris Convexity Min (°):
+Iris Convexity Axis Min (°):
+ARC (3mm Zone):
+PRC (3mm Zone):
+Thinnest Pachy:
+DCVA:
+ABCD A:
+ABCD B:
+ABCD C:
+ABCD D:
+Chord Mu (polar vector, rel. to pupil center) [mm]:
+KISA:
+AngleAlphaRadius:
+AngleAlphaPhi:
+Axial/Sag. B/F Ratio:
+Chord Mu (angle) [°]
+Unnamed: 96

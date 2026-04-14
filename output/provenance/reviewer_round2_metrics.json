@@ -1,0 +1,60 @@
+{
+  "analysis_base": "C:\\Users\\orhan\\Desktop\\HASTANE\\fenotip atlas 3",
+  "cohort_counts": {
+    "matched": 19181,
+    "error_excluded": 6065,
+    "missing_zernike_excluded": 0,
+    "missing_bad_d_excluded": 8,
+    "invalid_cct_excluded": 0,
+    "eye_or_repeat_excluded": 8729,
+    "underage_excluded": 846,
+    "final_n": 3533
+  },
+  "pca": {
+    "discovery_n": 2473,
+    "replication_n": 1060,
+    "npc": 20,
+    "variance_retained": 0.7945900294091067
+  },
+  "severity_metrics": {
+    "K2": {
+      "total_rms": {
+        "accuracy": 0.845936109987869,
+        "balanced_accuracy": 0.8028916947587228,
+        "macro_f1": 0.8196581054256283,
+        "auc": 0.8904023811770356
+      },
+      "hoa_rms": {
+        "accuracy": 0.8358269308532147,
+        "balanced_accuracy": 0.7914568697586513,
+        "macro_f1": 0.8076157519180214,
+        "auc": 0.9044040910039659
+      }
+    },
+    "K3": {
+      "total_rms": {
+        "accuracy": 0.6316215123331985,
+        "balanced_accuracy": 0.5629376798108058,
+        "macro_f1": 0.4923748035964399,
+        "auc": 0.7660178218289397
+      },
+      "hoa_rms": {
+        "accuracy": 0.6566922765871411,
+        "balanced_accuracy": 0.5957169414933102,
+        "macro_f1": 0.5623071767060203,
+        "auc": 0.7944548143559059
+      }
+    }
+  },
+  "reproducibility": {
+    "K2": {
+      "mean_centroid_cosine_similarity": 0.9954885930686891,
+      "ari_projected_vs_independent": 0.9697029454866369
+    },
+    "K3": {
+      "mean_centroid_cosine_similarity": 0.8858110278059937,
+      "ari_projected_vs_independent": 0.6074847318711745
+    }
+  },
+  "figure_path": "C:\\Users\\orhan\\Desktop\\HASTANE\\makale3\\Figure4_severity_independence.png"
+}

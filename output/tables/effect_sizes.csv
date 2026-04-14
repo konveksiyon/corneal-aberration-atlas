@@ -1,0 +1,10 @@
+variable,H_statistic,p_value,n,eta_squared,effect_interpretation
+ISV,1596.21,0.00e+00,3533,0.4515,large
+IVA,1643.81,0.00e+00,3533,0.465,large
+KI,2051.88,0.00e+00,3533,0.5806,large
+CKI,2049.25,0.00e+00,3533,0.5798,large
+IHA,888.48,2.79e-192,3533,0.2509,large
+IHD,1648.5,0.00e+00,3533,0.4663,large
+BAD D,1868.35,0.00e+00,3533,0.5286,large
+Kmax,1515.12,0.00e+00,3533,0.4285,large
+CCT,1378.36,1.46e-298,3533,0.3897,large

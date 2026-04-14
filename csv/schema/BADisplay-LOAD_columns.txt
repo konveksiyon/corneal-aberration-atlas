@@ -1,0 +1,43 @@
+Last Name:
+First Name:
+Pat-ID:
+D.o.Birth:
+Exam Date:
+Exam Time:
+Exam Eye:
+Exam Type:
+Exam Comment:
+Status:
+Error:
+Comment1:
+Comment2:
+Comment3:
+Comment4:
+Comment5:
+K1 (D):
+K2 (D):
+Axis (K1):
+Astig (D):
+BAD D Reference Database:
+BAD Df:
+BAD Db:
+BAD Dp:
+BAD Dt:
+BAD Dam:
+BAD Dy:
+BAD D:
+BAD Db hyp:
+BFS Front 8mm:
+BFS Back 8mm:
+Pachy Prog Index Min.:
+Pachy Prog Index Min. Axis:
+Pachy Prog Index Max.:
+Pachy Prog Index Max. Axis:
+Pachy Prog Index Avg.:
+ART Min.:
+ART Max.:
+ART Avg.:
+Pachy Min.:
+Dist. Apex-Thin.Loc. [mm]:
+Pachy Min Loc Orientation:
+Unnamed: 42

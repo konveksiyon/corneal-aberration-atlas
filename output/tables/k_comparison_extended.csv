@@ -1,0 +1,6 @@
+K,sizes,min_cluster_pct,cosine_silhouette,euclidean_silhouette,bootstrap_ARI_mean,bootstrap_ARI_sd,severity_LR_acc,max_centroid_sim,mean_centroid_sim,chance_level
+2,"[np.int64(1597), np.int64(876)]",35.4,0.2505,0.2336,0.9889,0.0068,0.8459,-1.0,-1.0,0.5
+3,"[np.int64(1031), np.int64(654), np.int64(788)]",26.4,0.1816,0.1413,0.9207,0.122,0.6316,0.2118,-0.4393,0.3333
+4,"[np.int64(388), np.int64(964), np.int64(575), np.int64(546)]",15.7,0.172,0.1381,0.9475,0.0207,0.5584,0.2744,-0.2927,0.25
+5,"[np.int64(792), np.int64(371), np.int64(524), np.int64(480), np.int64(306)]",12.4,0.1604,0.1161,0.8688,0.0886,0.4776,0.3252,-0.1981,0.2
+6,"[np.int64(297), np.int64(487), np.int64(507), np.int64(295), np.int64(448), np.int64(439)]",11.9,0.1428,0.0964,0.7217,0.0762,0.3712,0.6763,-0.1395,0.1667

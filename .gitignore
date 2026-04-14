@@ -1,0 +1,38 @@
+# ── Patient-level data (NEVER commit) ──
+csv/*.CSV
+csv/*.csv
+csv/*.xlsx
+csv/*.sav
+output/tables/assignments.csv
+
+# ── Python ──
+__pycache__/
+*.py[cod]
+*.egg-info/
+.eggs/
+*.egg
+dist/
+build/
+.venv/
+venv/
+env/
+
+# ── OS ──
+.DS_Store
+Thumbs.db
+desktop.ini
+*.lnk
+
+# ── IDE / editor ──
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# ── Temporary / runtime ──
+*.log
+*.tmp
+*.bak
+output/data_repository_v4.docx
+.claude/

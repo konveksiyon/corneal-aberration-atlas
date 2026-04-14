@@ -1,0 +1,7 @@
+pair,n_sig,n_nonsig,nonsig_vars,mean_cohens_d,max_cohens_d,interpretation
+P0-P1,9,0,none,2.162,2.699,GÜÇLÜ AYRIM
+P0-P2,3,6,"ISV, IVA, CKI, IHA, IHD, K Max (Front)",0.229,1.131,YAPAY BÖLÜNME
+P0-P3,9,0,none,1.344,1.703,GÜÇLÜ AYRIM
+P1-P2,9,0,none,2.666,3.305,GÜÇLÜ AYRIM
+P1-P3,9,0,none,0.905,1.746,GÜÇLÜ AYRIM
+P2-P3,9,0,none,1.74,2.758,GÜÇLÜ AYRIM

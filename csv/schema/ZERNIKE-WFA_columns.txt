@@ -1,0 +1,171 @@
+Last Name:
+First Name:
+Pat-ID:
+D.o.Birth:
+Exam Date:
+Exam Time:
+Exam Eye:
+Exam Type:
+Exam Comment:
+Rf (mm):
+Rs (mm):
+Zernike-Standard:
+Calc. Dia (mm):
+Order:
+Unit
+CF Refr. Index
+RMS (CF):
+RMS HOA (CF):
+RMS LOA (CF):
+RMS (CB):
+RMS HOA (CB):
+RMS LOA (CB):
+RMS (Cornea):
+RMS HOA (Cornea):
+RMS LOA (Cornea):
+Unnamed: 25
+Unnamed: 26
+Unnamed: 27
+Diff. (CF)
+Z 0 0 (CF):
+Z 1 1 (CF):
+Z 1 -1 (CF):
+Z 2 2 (CF):
+Z 2 0 (CF):
+Z 2 -2 (CF):
+Z 3 3 (CF):
+Z 3 1 (CF):
+Z 3 -1 (CF):
+Z 3 -3 (CF):
+Z 4 4 (CF):
+Z 4 2 (CF):
+Z 4 0 (CF):
+Z 4 -2 (CF):
+Z 4 -4 (CF):
+Z 5 5 (CF):
+Z 5 3 (CF):
+Z 5 1 (CF):
+Z 5 -1 (CF):
+Z 5 -3 (CF):
+Z 5 -5 (CF):
+Z 6 6 (CF):
+Z 6 4 (CF):
+Z 6 2 (CF):
+Z 6 0 (CF):
+Z 6 -2 (CF):
+Z 6 -4 (CF):
+Z 6 -6 (CF):
+Z 7 7 (CF):
+Z 7 5 (CF):
+Z 7 3 (CF):
+Z 7 1 (CF):
+Z 7 -1 (CF):
+Z 7 -3 (CF):
+Z 7 -5 (CF):
+Z 7 -7 (CF):
+Z 8 8 (CF):
+Z 8 6 (CF):
+Z 8 4 (CF):
+Z 8 2 (CF):
+Z 8 0 (CF):
+Z 8 -2 (CF):
+Z 8 -4 (CF):
+Z 8 -6 (CF):
+Z 8 -8 (CF):
+Unnamed: 74
+Diff. (CB)
+Z 0 0 (CB):
+Z 1 1 (CB):
+Z 1 -1 (CB):
+Z 2 2 (CB):
+Z 2 0 (CB):
+Z 2 -2 (CB):
+Z 3 3 (CB):
+Z 3 1 (CB):
+Z 3 -1 (CB):
+Z 3 -3 (CB):
+Z 4 4 (CB):
+Z 4 2 (CB):
+Z 4 0 (CB):
+Z 4 -2 (CB):
+Z 4 -4 (CB):
+Z 5 5 (CB):
+Z 5 3 (CB):
+Z 5 1 (CB):
+Z 5 -1 (CB):
+Z 5 -3 (CB):
+Z 5 -5 (CB):
+Z 6 6 (CB):
+Z 6 4 (CB):
+Z 6 2 (CB):
+Z 6 0 (CB):
+Z 6 -2 (CB):
+Z 6 -4 (CB):
+Z 6 -6 (CB):
+Z 7 7 (CB):
+Z 7 5 (CB):
+Z 7 3 (CB):
+Z 7 1 (CB):
+Z 7 -1 (CB):
+Z 7 -3 (CB):
+Z 7 -5 (CB):
+Z 7 -7 (CB):
+Z 8 8 (CB):
+Z 8 6 (CB):
+Z 8 4 (CB):
+Z 8 2 (CB):
+Z 8 0 (CB):
+Z 8 -2 (CB):
+Z 8 -4 (CB):
+Z 8 -6 (CB):
+Z 8 -8 (CB):
+Unnamed: 121
+Diff. (Cornea)
+Z 0 0 (Cornea):
+Z 1 1 (Cornea):
+Z 1 -1 (Cornea):
+Z 2 2 (Cornea):
+Z 2 0 (Cornea):
+Z 2 -2 (Cornea):
+Z 3 3 (Cornea):
+Z 3 1 (Cornea):
+Z 3 -1 (Cornea):
+Z 3 -3 (Cornea):
+Z 4 4 (Cornea):
+Z 4 2 (Cornea):
+Z 4 0 (Cornea):
+Z 4 -2 (Cornea):
+Z 4 -4 (Cornea):
+Z 5 5 (Cornea):
+Z 5 3 (Cornea):
+Z 5 1 (Cornea):
+Z 5 -1 (Cornea):
+Z 5 -3 (Cornea):
+Z 5 -5 (Cornea):
+Z 6 6 (Cornea):
+Z 6 4 (Cornea):
+Z 6 2 (Cornea):
+Z 6 0 (Cornea):
+Z 6 -2 (Cornea):
+Z 6 -4 (Cornea):
+Z 6 -6 (Cornea):
+Z 7 7 (Cornea):
+Z 7 5 (Cornea):
+Z 7 3 (Cornea):
+Z 7 1 (Cornea):
+Z 7 -1 (Cornea):
+Z 7 -3 (Cornea):
+Z 7 -5 (Cornea):
+Z 7 -7 (Cornea):
+Z 8 8 (Cornea):
+Z 8 6 (Cornea):
+Z 8 4 (Cornea):
+Z 8 2 (Cornea):
+Z 8 0 (Cornea):
+Z 8 -2 (Cornea):
+Z 8 -4 (Cornea):
+Z 8 -6 (Cornea):
+Z 8 -8 (Cornea):
+Status
+Error
+Unnamed: 170
